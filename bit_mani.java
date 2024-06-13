@@ -3,7 +3,7 @@ public class bit_mani {
 
     public static void main (String args[]) {
 
-        int n = 5;
+        int n = 5; // 0101
         int pos = 2 ;// matlab 2 places se position left khiskani h 
         int bitMask = 1<<pos;
 
